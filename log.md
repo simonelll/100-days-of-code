@@ -1,7 +1,6 @@
 # 100 Days Of Code - Log
 
 ### Day 1: November 15, 2020
-##### (delete me or comment me out)
 
 **Today's Progress**: 
 This is my JS course assignment & I worked a whole day for that.
@@ -14,22 +13,10 @@ Remote coding is hard. I need to reach out more actively.
 
 **Link to work:** [Personal Album using JSON](https://github.com/simonelll/WebAdvancedJS_Fall2020_simone97/tree/main/Assignment3)
 
-### Day 2: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: November 16, 2020
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: This is my another JS course assignment & I worked for 1 hour. This uses a simple lyrics-generator API to generate songs of Coldplay.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: This is a really easy one, quite rough. I'll work on this more.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link(s) to work**: [Lyrics Generator](https://github.com/simonelll/WebAdvancedJS_Fall2020_simone97/tree/main/Assignment4)
